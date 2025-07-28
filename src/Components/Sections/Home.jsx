@@ -15,7 +15,7 @@ const Home = () => {
           </h1>
           <p className="text-gray-400 text-lg mb-8 max-w-lg mxauto">
             I’m a front-End developer who loves crafting clean, scalable Mobile
-            applications and Web Appliction. My goal is to build solutions that
+            and Web Appliction. My goal is to build solutions that
             offer both exceptional performance and a delightful user experience.
           </p>
           <div className="flex justify-center space-x-4">
