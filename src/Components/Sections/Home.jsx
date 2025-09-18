@@ -14,7 +14,7 @@ const Home = () => {
             Hi,I’m Asghar Ali
           </h1>
           <p className="text-gray-400 text-lg mb-8 max-w-lg mxauto">
-            I’m a front-End developer who loves crafting clean, scalable Mobile
+            I’m a Front-End developer who loves crafting clean, scalable Mobile
             and Web Appliction. My goal is to build solutions that
             offer both exceptional performance and a delightful user experience.
           </p>
@@ -31,7 +31,7 @@ const Home = () => {
             >
               Contect Me
             </a>
-          </div>
+          </div> 
         </div>
       </RevealOnScroll>
     </section>
